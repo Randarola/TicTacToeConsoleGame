@@ -7,6 +7,7 @@ Projekt prostej aplikacji konsolowej **Tic Tac Toe** (kółko i krzyżyk) zaimpl
 ## Spis treści
 - [Opis projektu](#opis-projektu)
 - [Technologie](#technologie)
+- [Licencja](#licencja)
 
 ---
 
@@ -26,5 +27,9 @@ Projekt ten został stworzony w celu nauki:
 - openjdk-23
 - **Git** jako system kontroli wersji
 - **GitHub** jako platforma hostująca repozytorium
+
+---
+## Licencja 
+MIT
 
 
